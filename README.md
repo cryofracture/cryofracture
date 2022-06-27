@@ -14,6 +14,10 @@ Some quick info about me:
   - 📫 How to reach me:
     - thecryoforce@gmail.com
 
+
+![hashicorp-certified-terraform-associate (1)](https://user-images.githubusercontent.com/42554510/175850846-8fd80537-cd2c-42ef-a9a7-ab21cbb35ba9.png)
+
+
 <!---
 cryofracture/cryofracture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
