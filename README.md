@@ -1,16 +1,22 @@
-👋 Hi, I’m Cryofracture, a devOPS, sysadmin, support engineer specialized in distributed computing environments, disaster recovery, scripting for automation, and agile development centered on creating and maintaining infrastructure for various teams.
+👋 Hi, I’m Cryofracture, a devOPS, sysadmin, support engineer specialized in distributed computing environments, infrastructure as code, disaster recovery, scripting for automation, and agile development centered on creating and maintaining infrastructure for various teams.
 
 Some quick info about me:
   - 👀 I’m interested in:
-    - python, javascript, automation, cloud computing, infrastructure as code, and blockchain technologies.
+    - python
+    - javascript
+    - automation
+    - cloud computing
+    - infrastructure as code
+    - blockchain technologies
   - 🌱 I’m currently learning:
     - Rust
     - Deeper Python skills (data visualization, machine learning for blockchain observance/utility)
     - Smart Contracts (rust)
     - Cryptocurrency API interaction
+    - Hashicorp Vault Certification Prep (Consul to follow)
   - 💞️ I’m looking to collaborate on:
     - Crypto related projects aimed at bringing new users to the cryptocurrency environment.
-    - Open source python projects related to data visualization, system automation, network monitoring.
+    - Open source python projects related to data visualization, system automation, network monitoring, etc.
     - Infrastructure as Code projects, Proof of Concept design ideas, etc.
   - 📫 How to reach me:
     - thecryoforce@gmail.com
